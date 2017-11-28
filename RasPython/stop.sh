@@ -1,0 +1,2 @@
+sudo screen -r Netzkaffeekasse
+

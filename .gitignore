@@ -1,0 +1,9 @@
+*.nkk
+/EINWURF_IMAGES/*
+/ALERT_IMAGES/*
+!/EINWURF_IMAGES/empty.empty
+!/ALERT_IMAGES/empty.empty
+/startbackground.sh
+/start.sh
+/stop.sh
+RaspiOnlyVersion/node_modules
